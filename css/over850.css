@@ -75,7 +75,7 @@ nav h1 {
 }
 nav h1 a {
     color: #fff;
-    font-size: 20pt;
+    font-size: 25pt;
     font-weight: 200;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -98,7 +98,7 @@ nav.breadNav{
 /* Display list items side by side */
 #breadcrumb li {
     display: inline;
-    font-size: 17pt;
+    font-size: 16pt;
 }
 
 /* Add a slash symbol (/) before/behind each list item */
@@ -239,7 +239,7 @@ nav.breadNav{
 #restaurant-name {
     color: #000080;
     font-family: Arial,sans-serif;
-    font-size: 25pt;
+    font-size: 20pt;
     font-weight: bold;
     letter-spacing: 0px;
     margin: 15px 0 15px;
@@ -265,7 +265,7 @@ nav.breadNav{
 #restaurant-cuisine {
     background-color: #252831;
     color: white;
-    font-size: 24pt;
+    font-size: 20pt;
     font-weight: 300;
     letter-spacing: 1px;
     margin: 0 20% 10px;
@@ -284,9 +284,9 @@ nav.breadNav{
     padding: 0px;
 
 }
-#reviews-container h2 {
+#reviews-container h3 {
     color: #000080;
-    font-size: 25pt;
+    font-size: 18pt;
     font-weight: bold;
     letter-spacing: -1px;
     padding-bottom: 1pt;

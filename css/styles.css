@@ -68,11 +68,14 @@ nav h1 a {
     letter-spacing: 2px;
     text-transform: uppercase;
 }
+<<<<<<< HEAD
 
 nav.breadNav{
     text-align: left;
 }
 
+=======
+>>>>>>> ff87d5a5f525850b5b52be3fdfa90790ad8f2d21
 #breadcrumb {
     padding: 10px 10px 16px;
     list-style: none;
@@ -226,7 +229,10 @@ nav.breadNav{
     margin: 15px 0 15px;
     text-transform: uppercase;
     line-height: 1.2em;
+<<<<<<< HEAD
     text-align: center;
+=======
+>>>>>>> ff87d5a5f525850b5b52be3fdfa90790ad8f2d21
 }
 #restaurant-img {
     max-width:100%;

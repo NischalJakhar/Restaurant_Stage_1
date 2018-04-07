@@ -10,13 +10,13 @@ self.addEventListener('install', function(event) {
                 console.log('[Service Worker] Precaching App Shell');
                 cache.addAll([
 
-                    '/',
-                    '/index.html',
-                    '/restaurant.html',
+                    
+                    'index.html',
+                    'restaurant.html',
                     '/js/main.js',
                     '/js/restaurant_info.js',
                     '/js/dbhelper.js',
-                    '/js/app/js',
+                    '/js/app.js',
                     '/css/over550.css',
                     '/css/over850.css',
                     '/css/styles.css',
